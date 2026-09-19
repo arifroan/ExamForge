@@ -1,0 +1,6 @@
+{
+  "name": "ExamForge",
+  "description": "Practice. Analyze. Improve. Scalable competitive-exam preparation platform for JEE Main, JEE Advanced, and NEET UG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
